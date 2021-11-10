@@ -1,0 +1,143 @@
+.card-container {
+
+    display:flex;
+    /* background-color: royalblue; */
+    
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 65%;
+    margin-top: 50px;
+    height: 350px;
+    margin:auto;
+    margin-bottom: 50px;
+    
+}
+
+
+
+
+.heading1 {
+
+    font-family: sans-serif;
+    margin-top:10%;
+    margin-left: 20%;
+    color: black;
+    margin-bottom: 60px;
+    font-size: 70px;
+}
+
+
+.heading {
+
+    font-family: sans-serif;
+    margin-top:140px;
+    margin-left: 19%;
+    color: black;
+    margin-bottom: -140px;
+    font-size: 70px;
+    background-color: crimson;
+}
+hr {
+    margin-left:50px;
+}
+
+
+.plus {
+    margin-left:30px;
+
+}
+.mentor ul{
+    list-style-type:  none;
+    
+}
+
+.mentor {
+    
+    
+padding :20px;
+vertical-align : middle;
+margin-left: 800px;
+font-size: 50px;
+ background-color: yellow; 
+}
+
+.mentor li {
+    display: inline;
+    color: aqua;
+    
+
+}
+.team{
+    margin-right: 20px;
+    color: brown;
+   
+}
+
+
+
+.Add1 {
+    margin-left:250px;
+     /* background-color: violet;  */
+    margin-top:11%;
+    font-size: 45px;
+    color: gray;
+    
+}
+
+td{
+    margin-left: 0%;
+    padding: 50px;
+}   
+
+
+.trip {
+  
+    width: 25%;
+    border: 1px red solid;
+    text-align: center;
+    border-radius: 12px;
+    color: red;
+    font-family: sans-serif;
+    box-shadow: 5px 5px 8px 5px lightgray ;
+    
+   
+}
+
+.subtitle {
+
+    font-size: 25px;
+    font-weight: 100;
+    
+}
+.content {
+
+
+    margin-top: 60px ;
+    text-decoration: line-through solid red ;
+    font-size: 20px;
+    font-weight: bolder;
+    
+    
+}
+.checkbox {
+
+    color: black;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+  
+    
+
+.subheading {
+    
+    background-color: tomato;
+    
+    width: 35%;
+    margin-top: 10px;
+    margin-left: 65%;
+    
+}
+     
+   
